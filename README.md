@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nithu335
-- 👀 I’m interested in difitalisation and automation
+- 👀 I’m interested in digitalisation and automation
 - 🌱 I’m currently learning machine/deep learning applications
 - 💞️ I’m looking to collaborate on machine/ deep learning projects
 - 📫 To reach me you can mail to nishantk335@gmail.com
